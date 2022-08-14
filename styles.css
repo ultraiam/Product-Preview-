@@ -1,0 +1,47 @@
+body{
+    background-color:hsl(30, 38%, 92%);
+}
+p{
+  font-size: 14px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* Card Preview */
+
+.card-title{
+    font-family: 'Fraunces', serif;
+    font-weight: 700;
+    margin-top: 15px;
+    color: hsl(212, 21%, 14%);
+}
+.card-subtitle{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+.price{
+  font-family: 'Fraunces', serif;
+  font-weight: 700;
+  color: hsl(158, 36%, 37%);
+}
+.original-price{
+  text-decoration: line-through;
+  font-family:'Montserrat', sans-serif;
+  font-weight: 500;
+  font-size: small;
+}
+.btn:hover{
+  background-color:green;
+
+}
+
+
+
+/* FOOTER */
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
